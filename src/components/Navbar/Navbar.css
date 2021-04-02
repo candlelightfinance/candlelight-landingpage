@@ -70,7 +70,7 @@
         width: 82%;
         top: 50%;
         left: 0;
-        opacity: 90%;
+        opacity: 0.9;
         transition: all 0.5s ease;
         z-index: 5;
     }
