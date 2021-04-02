@@ -22,7 +22,6 @@
       font-size: 70px;
       font-weight: bold; 
       color: #4d4a4a; 
-      opacity: 100%;
       font-style: italic;
       text-align: center;
   }
@@ -31,7 +30,6 @@
     font-size: 70px;
     font-weight: bold; 
     color: #DA552A; 
-    opacity: 50%;
     position: absolute;
     font-style: italic;
     text-align: center;
