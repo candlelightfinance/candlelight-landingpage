@@ -15,7 +15,6 @@
       display: flex;
       justify-items: center;
       align-items: center;
-      z-index: 5;
   }
 
   .text {
@@ -26,7 +25,6 @@
       opacity: 100%;
       font-style: italic;
       text-align: center;
-      z-index: 5;
   }
 
   .text:hover {
@@ -37,7 +35,6 @@
     position: absolute;
     font-style: italic;
     text-align: center;
-     z-index: 5;
   }
   
   .candle{
@@ -226,7 +223,6 @@
           display: flex;
           justify-items: center;
           align-items: center;
-          z-index: 5;
       }
     
       .text {
@@ -237,7 +233,6 @@
           opacity: 100%;
           font-style: italic;
           text-align: center;
-          z-index: 5;
       }
     
       .text:hover {
@@ -248,7 +243,6 @@
         position: absolute;
         font-style: italic;
         text-align: center;
-         z-index: 5;
       }
 
       .candle{
