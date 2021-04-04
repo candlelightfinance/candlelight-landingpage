@@ -16,7 +16,7 @@ export const MenuItems = [
     },
     {
         title: 'Enter Dapp',
-        url: '#',
+        url: 'https://dapp.candlelight.finance/',
         cName: 'nav-links-mobile'
     },
 ]
