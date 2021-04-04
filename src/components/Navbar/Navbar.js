@@ -30,7 +30,7 @@ class Navbar extends Component {
                         )
                     })}                    
                 </ul>
-                <Button>Enter DApp</Button>
+                <Button onclick="location.href = 'https://dapp.candlelight.finance/';">Enter DApp</Button>
             </nav>
         )
     }
