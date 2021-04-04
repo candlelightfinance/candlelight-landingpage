@@ -1,17 +1,17 @@
 export const MenuItems = [
     {
         title: 'Telegram',
-        url: '#',
+        url: 'https://t.me/CandlelightFinance',
         cName: 'nav-links'
     },
     {
         title: 'Github',
-        url: '#',
+        url: 'https://github.com/candlelightfinance',
         cName: 'nav-links'
     },
     {
         title: 'Medium',
-        url: '#',
+        url: 'https://medium.com/@candlelightfinance',
         cName: 'nav-links'
     },
     {
