@@ -9,6 +9,9 @@ class Navbar extends Component {
     handleClick = () => {
         this.setState({clicked: !this.state.clicked})
     }
+    onClick(){
+        window.location.href="https://dapp.candlelight.finance/";
+    }
 
     render () {
         return(
@@ -30,7 +33,7 @@ class Navbar extends Component {
                         )
                     })}                    
                 </ul>
-                <Button onclick="location.href = 'https://dapp.candlelight.finance/';">Enter DApp</Button>
+                <Button id="bt" onClick={this.onClick}>Enter DApp</Button>
             </nav>
         )
     }
